@@ -18,7 +18,7 @@ const jeevanRaj = {
   location:   "Pollachi, Coimbatore, Tamil Nadu 🇮🇳",
   degree:     "B.Sc Computer Science — Rathinam College (2026)",
   github:     "github.com/Jeevan-alias",
-  portfolio:  "jeevan-alias.github.io/portfolio/",
+  portfolio:  "jeevan-alias.github.io/Jeevan/",
 
   stack: [
     "HTML5", "CSS3", "JavaScript",
@@ -163,7 +163,7 @@ const jeevanRaj = {
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
 | **[🍞 Bakery Billing Software](https://github.com/Jeevan-alias)** | Python · SQL · Logic Automation | Developed a complete billing system to manage customer orders & generate bills · Improved billing accuracy & reduced manual work significantly |
-| **[🌐 Portfolio Websites](https://jeevan-alias.github.io/portfolio/)** | HTML5 · CSS3 · JavaScript | Designed & developed multiple responsive personal & business portfolio websites · Ensured full cross-device compatibility & clean UI design |
+| **[🌐 Portfolio Websites](https://jeevan-alias.github.io/Jeevan/)** | HTML5 · CSS3 · JavaScript | Designed & developed multiple responsive personal & business portfolio websites · Ensured full cross-device compatibility & clean UI design |
 
 </div>
 
@@ -180,7 +180,7 @@ const jeevanRaj = {
 | 🤖 | **Artificial Intelligence Beginners Guide** | Certified by Simplilearn |
 | 💻 | **3 Years of Web Development** | Freelance + Academic Projects |
 | 🍰 | **Real-World Billing System** | Built & deployed bakery billing software |
-| 🌐 | **Portfolio Live** | [jeevan-alias.github.io/portfolio](https://jeevan-alias.github.io/portfolio/) |
+| 🌐 | **Portfolio Live** | [jeevan-alias.github.io/portfolio](https://jeevan-alias.github.io/Jeevan/) |
 
 </div>
 
@@ -217,7 +217,7 @@ const jeevanRaj = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-raj-840575269)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jeevan-alias)
-[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=googlechrome&logoColor=white)](https://jeevan-alias.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=googlechrome&logoColor=white)](https://jeevan-alias.github.io/Jeevan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amjeevanrajstudent@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeevan-alias&color=70a5fd&style=flat-square&label=Profile+Views)
